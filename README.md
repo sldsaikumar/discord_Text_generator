@@ -1,3 +1,17 @@
+the output screen recording  :
+
+
+
+
+screenshots:
+
+![Screenshot 2025-03-25 213422](https://github.com/user-attachments/assets/33563103-a01a-4800-8ff5-30e134307856)
+
+
+![Screenshot 2025-03-25 213515](https://github.com/user-attachments/assets/7a51108a-432e-4958-ae3d-70acd8052028)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
