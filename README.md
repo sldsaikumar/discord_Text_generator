@@ -1,7 +1,9 @@
+NOTE : DUE TO AN ERROR IN NODE PACKAGES, the vercel hosting is not deploying this webpage, so, i have recorded the local host output webpage screen record , please go through it.
+it satisfied all functionalities.
+
 the output screen recording  :
 
 [discord text generator. output.zip](https://github.com/user-attachments/files/19454176/discord.text.generator.output.zip)
-
 
 
 screenshots:
