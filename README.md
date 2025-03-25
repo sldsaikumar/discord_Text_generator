@@ -1,5 +1,6 @@
 the output screen recording  :
 
+[discord text generator. output.zip](https://github.com/user-attachments/files/19454176/discord.text.generator.output.zip)
 
 
 
